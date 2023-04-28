@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">588049674451-bdi86bhbvbl1ea5c8827pl4155c34r1d.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">588049674451</string>
+    <string name="google_api_key" translatable="false">AIzaSyC6_ZUlyCFoczinIM3VlyjlZYeddzdte88</string>
+    <string name="google_app_id" translatable="false">1:588049674451:android:bfb6ca2b04a8d94ad96426</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC6_ZUlyCFoczinIM3VlyjlZYeddzdte88</string>
+    <string name="google_storage_bucket" translatable="false">engagro-6aabb.appspot.com</string>
+    <string name="project_id" translatable="false">engagro-6aabb</string>
+</resources>
